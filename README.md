@@ -4,6 +4,7 @@ Tugas Calculator menggunakan XCode
 Calculator IOS sederhana yang bisa melakukan perhitungan perhitungan dasar seperti kurang, tambah, bagi, dan kali
 
 Berikut adalah tampilan awal calculator saya
+
 <img width="392" alt="Screenshot 2023-10-07 at 21 28 04" src="https://github.com/JeffriLieca/Calculator_Swift/assets/95264893/dcf0a41d-9603-47ab-b21c-4215e919dc91">
 
 Calculator saya dapat melakukan perhitungan matematika dengan tepat. Bila hasilnya adalah bilangan float, maka akan tampil sebagai float, apabila hasilnya adalah integer, maka akan tampil sebagai integer. Selain itu, calculator saya juga dapat memasukan nilai negatif, dan mempositifkan nilai negatif. Input angka koma atau float juga dapat dilakukan dengan menekan tombol "',' dan tidak akan menambah tanda koma bila bilangannya sudah koma. Apabila tanda ',' ditekan sebelum ada angka, maka otomatis akan menjadi "0," Calculator saya juga ada fitur percent yang akan membagi bilangan dengan 100. 
